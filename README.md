@@ -1,4 +1,4 @@
-**O-oooooooooo AAAAE-A-A-I-A-U-
-JO-oooooooooooo AAE-O-A-A-U-U-A-
-E-eee-ee-eee AAAAE-A-E-I-E-A-
-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA**
+# Kyle Mui
+- 4+ years of experience in software development
+- Primarily uses **Python** for software development, but can also work with **C** and **C++** as needed.
+- Experience with web development languages like **HTML**, **CSS**, and **JavaScript**. See [personal website](https://tsunderarislime.github.io) for example.
