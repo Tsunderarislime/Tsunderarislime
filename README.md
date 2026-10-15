@@ -36,6 +36,7 @@
   - Microsoft Office Suite
   - Google Workspace
   - Visual Studio Code
+  - REST APIs
   - Git
   - Docker
 - **Cloud Computing Services**:
